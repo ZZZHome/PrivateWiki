@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-23T09:25:48+08:00
+
+====== 802.1q ======
+Created Friday 23 October 2015
+
+http://blog.chinaunix.net/uid-26611973-id-3479560.html

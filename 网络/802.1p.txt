@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-10-23T09:26:51+08:00
+
+====== 802.1p ======
+Created Friday 23 October 2015
+
+http://wenku.baidu.com/view/58043e196bd97f192279e915.html
+http://wenku.baidu.com/view/f89c7343be1e650e52ea99a7.html?re=view

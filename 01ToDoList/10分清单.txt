@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-11-02T10:14:22+08:00
+
+====== 10分清单 ======
+Created Monday 02 November 2015
+
+打扫房间 @home 
+一篇文章 @any 
+家到公交站 @out 
+家到4村 @out 
+洗澡
+冥想发呆
+喝杯茶
+烧开水
+整理沙发
