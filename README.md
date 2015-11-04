@@ -1,0 +1,2 @@
+# PrivateWiki
+Private wiki
