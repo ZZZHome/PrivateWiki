@@ -5,32 +5,32 @@ Creation-Date: 2015-10-29T09:58:21+08:00
 ====== 01ToDoList ======
 Created Thursday 29 October 2015
 
-
+9/100 8' ppt练习时间有点不够，而且睡觉有点偏晚。和加班有关系，另外时间到了，也没休息
 8/100 8' 时间没有安排合理，需要重要的事情优先做。
 7/100 8’ 
 6/100 5’ 周五知道时间不够，还是继续按照既有时间进行，另外想做的时候不够坚决。因此需要估算好时间，另外不要磨叽，坚决一点。
 5/100 8' 6LoWPAN很容易忘记，但是他是长期任务，因此可以来了后尽快着手做这件事情。另外看书没有输出容易忘记，最好能看完后简要输出一下
 4/100 8‘
 
-[*] !!! TN 9/35 @office  [d: 04/11] 1000 100
-[ ] !!! 6LoWPAN 2/30 @office [d:4/11] 30
-[ ] !!! 锻炼 17/40 @home [d:4/11] 40
-[ ] !!! PPT pratice 9/22 @home [d:4/11] 30
-[ ] !!! 书籍 1/20 @home [d:4/11] 35
-[ ] !!! paper 5/40 @home [d:4/11]  30
+[ ] !!! TN 10/35 @office  [d: 5/11] 1000 100
+[*] !!! 6LoWPAN 3/30 @office [d:5/11] 30
+[ ] !!! 锻炼 18/40 @home [d:5/11] 40
+[ ] !!! PPT pratice 9/22 @home [d:5/11] 30
+[ ] !!! 书籍 2/20 @home [d:5/11] 35
+[ ] !!! paper 6/40 @home [d:5/11]  30
 
 [ ] 提前还款或者分开还款 @office  [d: 30/11]
 [ ] 杂项 [d:30/10]
-	[*] 邮件 @office [d:4/11]
 	[ ] 微信 YY 10 @home 
 	[ ] ! 主题操作 30
 	[ ] 英语 30
 	[ ] !!! Github
-	[ ] !!! Hex of sniffer to rick @office [d:4/11]
+	[ ] !!! Hex of sniffer to rick @office [d:5/11]
 	[ ] !! 炒股基准 
-	[*] !! 工行信用
 
-
+语音输入板
+http://d.appinn.com/aiworks-note/
+妙笔 – 媲美 Onenote 的本地笔记[Android/Windows Phone]
 
 
 [ ] Visit lierda  @future 
