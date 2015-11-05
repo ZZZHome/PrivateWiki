@@ -12,7 +12,7 @@ Created Thursday 29 October 2015
 5/100 8' 6LoWPAN很容易忘记，但是他是长期任务，因此可以来了后尽快着手做这件事情。另外看书没有输出容易忘记，最好能看完后简要输出一下
 4/100 8‘
 
-[ ] !!! TN 10/35 @office  [d: 5/11] 1000 100
+[*] !!! TN 10/35 @office  [d: 5/11] 1000 100
 [*] !!! 6LoWPAN 3/30 @office [d:5/11] 30
 [ ] !!! 锻炼 18/40 @home [d:5/11] 40
 [ ] !!! PPT pratice 9/22 @home [d:5/11] 30
@@ -21,11 +21,8 @@ Created Thursday 29 October 2015
 
 [ ] 提前还款或者分开还款 @office  [d: 30/11]
 [ ] 杂项 [d:30/10]
-	[ ] 微信 YY 10 @home 
 	[ ] ! 主题操作 30
 	[ ] 英语 30
-	[ ] !!! Github
-	[ ] !!! Hex of sniffer to rick @office [d:5/11]
 	[ ] !! 炒股基准 
 
 语音输入板
