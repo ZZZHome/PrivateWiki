@@ -15,9 +15,9 @@ Created Thursday 29 October 2015
 [*] !!! TN 10/35 @office  [d: 5/11] 1000 100
 [*] !!! 6LoWPAN 3/30 @office [d:5/11] 30
 [ ] !!! 锻炼 18/40 @home [d:5/11] 40
-[ ] !!! PPT pratice 9/22 @home [d:5/11] 30
-[ ] !!! 书籍 2/20 @home [d:5/11] 35
-[ ] !!! paper 6/40 @home [d:5/11]  30
+[*] !!! PPT pratice 9/22 @home [d:5/11] 30
+[*] !!! 书籍 2/20 @home [d:5/11] 35
+[*] !!! paper 6/40 @home [d:5/11]  30
 
 [ ] 提前还款或者分开还款 @office  [d: 30/11]
 [ ] 杂项 [d:30/10]
