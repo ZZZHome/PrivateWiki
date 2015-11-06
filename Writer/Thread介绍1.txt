@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-11-03T23:04:16+08:00
 
-====== Thread简介 ======
+====== Thread介绍1 ======
 Created Tuesday 03 November 2015
 
 Tread 主要用于home领域，并且声称由于home中网络节点数量可能很多，也可能很少，因此tread需要能支持这两种场景。从这个角度来看，他是能够支持professional领域，例如办公室，专卖店等领域。
