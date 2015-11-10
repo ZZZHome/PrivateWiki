@@ -6,13 +6,12 @@ Creation-Date: 2015-10-29T09:58:21+08:00
 Created Thursday 29 October 2015
 
 
-
-[*] !!! TN 12/35 @office  [d: 9/11] 1000 100
-[*] !!! 6LoWPAN 5/30 @office [d:9/11] 30
-[*] !!! 锻炼 21/40 @home [d:9/11] 40
-[*] !!! PPT pratice 10/22 @home [d:9/11] 30
-[*] !!! 书籍 4/20 @home [d:9/11] 35
-[ ] !!! paper 10/40 @home [d:9/11]  30
+[*] !!! TN 13/35 @office  [d: 10/11] 1000 50
+[*] !!! 6LoWPAN 6/30 @office [d:10/11] 30 笔记
+[*] !!! 锻炼 22/40 @home [d:10/11] 40 呼吸 放松
+[*] !!! PPT pratice 10/22 @home [d:10/11] 30 模仿
+[*] !!! 书籍 5/20 @home [d:10/11] 35 笔记 为什么 
+[ ] !!! paper 11/40 @home [d:10/11]  30 逻辑 假定角度
 
 
 
@@ -20,14 +19,13 @@ Created Thursday 29 October 2015
 [ ] 杂项 [d:30/11] 
 	[ ] ! 主题操作 30 @home 
 	[ ] 英语 30 @office 
-	[ ] !! 炒股基准 @home 
+	[ ] !! 上传result @office [d:14/11] 
 	[ ] !! 刷简历  @home 
 	[ ] 每周五12:30-13:00还书 4F Beijing @office 
 	[ ] 贷款 @office 
 	[ ] !!! 公交卡充值 @out 
 	[ ] !! 纯净水 @home 
 	[ ] 租房 @out [d:14/11]
-	[*] 报销 @office 
 	[ ] !! 交流练习 1/100 @home [d:14/11]  30
 
 
