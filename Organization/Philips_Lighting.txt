@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2015-10-19T13:36:17+08:00
 
-====== Lighting ======
+====== Philips Lighting ======
 Created Monday 19 October 2015
 
 Philips
