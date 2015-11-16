@@ -6,12 +6,12 @@ Creation-Date: 2015-10-29T09:58:21+08:00
 Created Thursday 29 October 2015
 
 
-[*] !!! TN 15/35 @office  [d: 12/11] 1000 50
-[*] !!! 6LoWPAN 8/30 @office [d:12/11] 30 笔记
-[*] !!! 锻炼 24/100 @home [d:12/11] 40 呼吸 放松
-[*] !!! PPT pratice 11/22 @home [d:12/11] 30 模仿
-[*] !!! 书籍 7/20 @home [d:12/11] 35 笔记 为什么 
-[*] !!! paper 13/40 @home [d:12/11]  30 逻辑 假定角度 讲故事或者模型
+[ ] !!! TN 16/35 @office  [d: 16/11] 1000 50
+[*] !!! 6LoWPAN 9/30 @office [d:16/11] 30 笔记
+[ ] !!! 锻炼 25/100 @home [d:16/11] 40 呼吸 放松
+[ ] !!! PPT pratice 11/22 @home [d:16/11] 30 模仿
+[ ] !!! 书籍 8/20 @home [d:16/11] 35 笔记 为什么 
+[ ] !!! paper 13/40 @home [d:16/11]  30 逻辑 假定角度 讲故事或者模型
 
 
 
@@ -28,6 +28,8 @@ Created Thursday 29 October 2015
 	[ ] 租房 @out [d:14/11]
 	[ ] !! 交流练习 1/100 @home [d:14/11]  30
 	[ ] xueqiu论坛
+	[*] BLE 搭建
+	[ ] Thread freescale & Silicon
 
 
 
