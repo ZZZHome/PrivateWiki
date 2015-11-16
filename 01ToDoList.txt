@@ -6,11 +6,11 @@ Creation-Date: 2015-10-29T09:58:21+08:00
 Created Thursday 29 October 2015
 
 
-[ ] !!! TN 16/35 @office  [d: 16/11] 1000 50
+[*] !!! TN 16/35 @office  [d: 16/11] 1000 50
 [*] !!! 6LoWPAN 9/30 @office [d:16/11] 30 笔记
-[ ] !!! 锻炼 25/100 @home [d:16/11] 40 呼吸 放松
-[ ] !!! PPT pratice 11/22 @home [d:16/11] 30 模仿
-[ ] !!! 书籍 8/20 @home [d:16/11] 35 笔记 为什么 
+[*] !!! 锻炼 25/100 @home [d:16/11] 40 呼吸 放松
+[*] !!! PPT pratice 11/22 @home [d:16/11] 30 模仿
+[*] !!! 书籍 8/20 @home [d:16/11] 35 笔记 为什么 
 [ ] !!! paper 13/40 @home [d:16/11]  30 逻辑 假定角度 讲故事或者模型
 
 
@@ -18,8 +18,6 @@ Created Thursday 29 October 2015
 [ ] 提前还款或者分开还款 @office  [d: 30/11]
 [ ] 杂项 [d:30/11] 
 	[ ] ! 主题操作 30 @home 
-	[ ] 英语 30 @office 
-	[ ] !! 上传result @office [d:14/11] 
 	[ ] !! 刷简历  @home 
 	[ ] 每周五12:30-13:00还书 4F Beijing @office 
 	[ ] 贷款 @office 
