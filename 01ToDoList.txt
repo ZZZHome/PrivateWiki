@@ -6,34 +6,32 @@ Creation-Date: 2015-10-29T09:58:21+08:00
 Created Thursday 29 October 2015
 
 
-[ ] !!! TN 20/35 @office  [d: 20/11] 1000 50
-[ ] !!! 6LoWPAN 13/30 @office [d:20/11] 30 笔记
-[ ] !!! 锻炼 29/100 @home [d:20/11] 40 呼吸 放松
-[ ] !!! PPT pratice 11/22 @home [d:20/11] 30 模仿
-[ ] !!! 书籍 4/40 @home [d:20/11] 35 笔记 为什么 同类书籍差别 假定是什么
-[ ] !!! paper 18/40 @home [d:20/11]  30 逻辑 假定角度 讲故事或者模型
+[ ] !!! 6LoWPAN 13/30 @office [d:1/12] 30 笔记
+[*] !!! PPM @office [d:1/12]
+[*] !! 报销 @office   [d:1/12]
+[*] 帮intern刷简历 @office 
+[ ] Budget check
+[*] !!! 锻炼 29/100 @home [d:1/12] 40 呼吸 放松
+[*] !!! PPT pratice 11/22 @home [d:1/12] 30 模仿
+[*] !!! 书籍 4/40 @home [d:1/12] 35 笔记 为什么 同类书籍差别 假定是什么
+[ ] !!! paper 18/40 @home [d:1/12]  30 逻辑 假定角度 讲故事或者模型
+[ ] !!! 搭建工作环境  @home [d:1/12]
 
-
-
-
-[ ] 提前还款或者分开还款 @office  [d: 30/11]
 [ ] 杂项 [d:30/11] 
-	[ ] ! 主题操作 30 @home 
 	[ ] !! 刷简历  @home 
-	[ ] 每周五12:30-13:00还书 4F Beijing @office 
+	[ ] 每周五12:30-13:00还书 4F Beijing @office  [d:4/12]
 	[ ] 贷款 @office 
-	[ ] !!! 公交卡充值 @out 
 	[ ] !! 纯净水 @home 
-	[*] 租房 @out [d:22/11]
-	[ ] !! 交流练习 1/100 @home [d:22/11]  30
+	[ ] !! 交流练习 1/100 @home [d:30/12]  30 
 	[ ] Thread freescale & Silicon @office 
-
-
-
+	[ ] Atmel chip [d:4/12] @office 
 
 [ ] Visit lierda  @future 
 [ ] Visit SJTU  @future 
 [ ] Visit IPL @future
+
+
+
 
 “37/100 #清晨三件事# 昨天的回顾+ 今天第一件事 +第二件事+第三件事 ”
 **穿透力  三个结果 指标化**
