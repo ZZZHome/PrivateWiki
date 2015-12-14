@@ -5,31 +5,59 @@ Creation-Date: 2015-10-29T09:58:21+08:00
 ====== 01ToDoList ======
 Created Thursday 29 October 2015
 
+[ ] Today
+	[ ] !!! 6LoWPAN 13/30 @office [d:7/12] 30 笔记
+	[ ] !!! BLE 1/20 @office [d:7/12] 30 笔记
+	[*] !!! 锻炼 29/100 @home [d:1/12] 40 呼吸 放松
+	[*] !!! PPT pratice 11/22 @home [d:1/12] 30 模仿
+	[*] !!! 书籍 4/40 @home [d:1/12] 35 笔记 为什么 同类书籍差别 假定是什么
+	[ ] !!! paper 18/40 @home [d:1/12]  30 逻辑 假定角度 讲故事或者模型
 
-[ ] !!! 6LoWPAN 13/30 @office [d:1/12] 30 笔记
-[*] !!! PPM @office [d:1/12]
-[*] !! 报销 @office   [d:1/12]
-[*] 帮intern刷简历 @office 
-[ ] Budget check
-[*] !!! 锻炼 29/100 @home [d:1/12] 40 呼吸 放松
-[*] !!! PPT pratice 11/22 @home [d:1/12] 30 模仿
-[*] !!! 书籍 4/40 @home [d:1/12] 35 笔记 为什么 同类书籍差别 假定是什么
-[ ] !!! paper 18/40 @home [d:1/12]  30 逻辑 假定角度 讲故事或者模型
-[ ] !!! 搭建工作环境  @home [d:1/12]
 
-[ ] 杂项 [d:30/11] 
-	[ ] !! 刷简历  @home 
-	[ ] 每周五12:30-13:00还书 4F Beijing @office  [d:4/12]
-	[ ] 贷款 @office 
-	[ ] !! 纯净水 @home 
-	[ ] !! 交流练习 1/100 @home [d:30/12]  30 
-	[ ] Thread freescale & Silicon @office 
-	[ ] Atmel chip [d:4/12] @office 
+
+[ ] 杂项 [d:30/11]  @office 
+	[ ] Thread freescale & Silicon @M
+	[*] !!! 项目 psc plan @D 
+	[ ] 1月份出差安排 @D
+	[*] 与搏尔偌确定发票 @D
+	[*] !!! accure @D 
+	[*] !!! 报销 @D 
+	[ ] TN @W 
+	[ ] NDA @W 
+	[ ] BLE熟悉 @W 
+	[ ] wangxiangyu 扩大网络规模分析 @W 
+	[ ] test setup for Atmel @W 
+	[ ] Roadmap of the project @W 
+[ ] 杂项 @home 
+	[ ] !!! 搭建工作环境  @W
+	[ ] !! 纯净水 
+	[ ] !! 交流练习 1/100 @W 
+	[ ] 参加头马 @W 
+	[ ] 贷款合理使用计算分析 @W 
+	[ ] 购买笔记本 @M 
+	[ ] 买电脑椅 @M 
+	[ ] 购买上海到武汉车票 @M 
+	[ ] 购买宜昌到上海车票 @M 
+	[ ] 还Haitao钱 @M	
+
+
+
+
+
+
+
+
+
 
 [ ] Visit lierda  @future 
 [ ] Visit SJTU  @future 
 [ ] Visit IPL @future
 
+[[ZigBee]]
+1, 广播只是转发邻居表广播？
+2，路由时只是转发邻居表路由
+3，路由时路由进入广播表吗？
+4，单播hop数进入path cost计算吗？
 
 
 
