@@ -8,37 +8,32 @@ Created Thursday 29 October 2015
 [ ] Today
 	[ ] !!! 6LoWPAN 13/30 @office [d:7/12] 30 笔记
 	[ ] !!! BLE 1/20 @office [d:7/12] 30 笔记
-	[*] !!! 锻炼 29/100 @home [d:1/12] 40 呼吸 放松
-	[*] !!! PPT pratice 11/22 @home [d:1/12] 30 模仿
-	[*] !!! 书籍 4/40 @home [d:1/12] 35 笔记 为什么 同类书籍差别 假定是什么
+	[*] !!! TN
+	[ ] !!! 锻炼 30/100 @home [d:1/12] 40 呼吸 放松
+	[ ] !!! PPT pratice 12/22 @home [d:1/12] 30 模仿
+	[ ] !!! 书籍:6LoWPAN 5/40 @home [d:1/12] 35 笔记 为什么 同类书籍差别 假定是什么
 	[ ] !!! paper 18/40 @home [d:1/12]  30 逻辑 假定角度 讲故事或者模型
 
-
-
 [ ] 杂项 [d:30/11]  @office 
-	[ ] Thread freescale & Silicon @M
-	[*] !!! 项目 psc plan @D 
 	[ ] 1月份出差安排 @D
-	[*] 与搏尔偌确定发票 @D
-	[*] !!! accure @D 
-	[*] !!! 报销 @D 
-	[ ] TN @W 
-	[ ] NDA @W 
-	[ ] BLE熟悉 @W 
-	[ ] wangxiangyu 扩大网络规模分析 @W 
+	[*] NDA @D 
+	[ ] wangxiangyu 扩大网络规模分析 @D 
+	[ ] BLE测试设计 @D 
+	[*] BLE人员安排 @D 
 	[ ] test setup for Atmel @W 
 	[ ] Roadmap of the project @W 
+	[ ] Thread freescale & Silicon @M
 [ ] 杂项 @home 
-	[ ] !!! 搭建工作环境  @W
-	[ ] !! 纯净水 
+	[ ] !!! 搭建工作环境  @W 
 	[ ] !! 交流练习 1/100 @W 
+	[ ] !! 纯净水 
 	[ ] 参加头马 @W 
 	[ ] 贷款合理使用计算分析 @W 
 	[ ] 购买笔记本 @M 
 	[ ] 买电脑椅 @M 
 	[ ] 购买上海到武汉车票 @M 
 	[ ] 购买宜昌到上海车票 @M 
-	[ ] 还Haitao钱 @M	
+	[ ] 还Haitao钱 @M 
 
 
 
