@@ -6,58 +6,59 @@ Creation-Date: 2015-10-29T09:58:21+08:00
 Created Thursday 29 October 2015
 
 [ ] Today
-	[ ] !!! 6LoWPAN 13/30 @office [d:7/12] 30 笔记
-	[ ] !!! BLE 1/20 @office [d:7/12] 30 笔记
-	[*] !!! TN
-	[ ] !!! 锻炼 30/100 @home [d:1/12] 40 呼吸 放松
-	[ ] !!! PPT pratice 12/22 @home [d:1/12] 30 模仿
-	[ ] !!! 书籍:6LoWPAN 5/40 @home [d:1/12] 35 笔记 为什么 同类书籍差别 假定是什么
-	[ ] !!! paper 18/40 @home [d:1/12]  30 逻辑 假定角度 讲故事或者模型
+	[ ] !!! 6LoWPAN 14/30 @office  30 笔记
+	[ ] !!! BLE 1/20 @office 30 笔记 
+	[*] !!! 锻炼 31/100 @home 40 呼吸 放松
+	[ ] !!! PPT pratice 12/22 @home 30 模仿
+	[*] !!! 书籍:6LoWPAN 6/40 @home  35 笔记 为什么 同类书籍差别 假定是什么
+	[ ] !!! paper 20/40 @home   30 逻辑 假定角度 讲故事或者模型
 
 [ ] 杂项 [d:30/11]  @office 
-	[ ] 1月份出差安排 @D
-	[*] NDA @D 
-	[ ] wangxiangyu 扩大网络规模分析 @D 
-	[ ] BLE测试设计 @D 
-	[*] BLE人员安排 @D 
-	[ ] test setup for Atmel @W 
-	[ ] Roadmap of the project @W 
+	[*] 修改CU
+	[*] 定义BLE Mesh问题列表
+	[*] Fan Rong 交流
+	[*] [[ZigBee]] 30
+	[ ] 自动贴片机
+	[ ] !! Wi-Fi module familar
 	[ ] Thread freescale & Silicon @M
+	[ ] BLE测试 
+	[ ] Atmel test setup
+	[ ] !! Wi-Fi sensing
+
+
 [ ] 杂项 @home 
 	[ ] !!! 搭建工作环境  @W 
 	[ ] !! 交流练习 1/100 @W 
+	[ ] Innovation point from Soviate
 	[ ] !! 纯净水 
+	[*] 给他爸电话
 	[ ] 参加头马 @W 
-	[ ] 贷款合理使用计算分析 @W 
 	[ ] 购买笔记本 @M 
 	[ ] 买电脑椅 @M 
-	[ ] 购买上海到武汉车票 @M 
-	[ ] 购买宜昌到上海车票 @M 
-	[ ] 还Haitao钱 @M 
-
-
-
-
-
-
-
-
-
 
 [ ] Visit lierda  @future 
 [ ] Visit SJTU  @future 
 [ ] Visit IPL @future
 
-[[ZigBee]]
-1, 广播只是转发邻居表广播？
-2，路由时只是转发邻居表路由
-3，路由时路由进入广播表吗？
-4，单播hop数进入path cost计算吗？
+活动待报销：
+zzz:
+食品  78+114+103+25？+78
+饮料 356
+打车 97+37
+米道 38+39
 
-
+Howard
+门票  120
+必胜客 5?--600?
 
 “37/100 #清晨三件事# 昨天的回顾+ 今天第一件事 +第二件事+第三件事 ”
 **穿透力  三个结果 指标化**
 - 如果没有三件，那就写两件、一件
 - 最好不要超过三件，多于5件就无效了
 - 回顾和复盘
+
+[[ZigBee]]
+1, 广播只是转发邻居表广播？
+2，路由时只是转发邻居表路由
+3，路由时路由进入广播表吗？
+4，单播hop数进入path cost计算吗？
